@@ -1,2 +1,2 @@
 # hello-world
-me trying to gitgud in github
+This is my first time using github.
